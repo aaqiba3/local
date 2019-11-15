@@ -1,1 +1,10 @@
-this all about exam
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="local.css">
+<body>
+
+<h1 style="color:blue;">This is a Blue Heading</h1>
+</head>
+</body>
+</html>
